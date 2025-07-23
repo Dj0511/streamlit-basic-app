@@ -14,6 +14,11 @@ This is a simple Streamlit web application built to upload and explore student s
 - Streamlit 🌐
 - Pandas 📈
 
+## 📊 Exploratory Data Analysis (EDA)
+
+Before building the Streamlit app, data exploration was performed using a Jupyter Notebook. 
+You can find it here: [Jupyter Notebook](https://github.com/Dj0511/streamlit-basic-app/blob/main/Student_Score_Analyse.ipynb)
+
 
 ## 📦 Installation
 
